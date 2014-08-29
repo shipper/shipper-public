@@ -1,0 +1,20 @@
+{
+  "name": "shipper-public",
+  "version": "0.0.0",
+  "description": "Shipper public website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joukou/shipper-public.git"
+  },
+  "author": "Fabian Cook <fabian.cook@joukou.com> (https://joukou.com/)",
+  "license": "Proprietary",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/joukou/shipper-public/issues"
+  },
+  "homepage": "https://github.com/joukou/shipper-public"
+}
