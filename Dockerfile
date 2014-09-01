@@ -2,7 +2,7 @@ FROM quay.io/joukou/nginx
 MAINTAINER Fabian Cook <fabian.cook@joukou.com>
 
 # Add the static web assets
-# ADD build/production /var/www
+ADD build/production /var/www
 
 # Add the NGINX configs
 ADD etc/nginx/sites-available/public.shipper.co.nz /etc/nginx/sites-available/
